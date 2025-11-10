@@ -1,10 +1,11 @@
-# My Python Template
+# Spenze Tracker
 
-This is my Python template! I like to use modern technologies and
-add them here as I learn to use them!
+This is my personal spenze tracking project.
+It helps me in keeping track of my expenses, it does so by
+analizing an incoming email message from the bank, extracting
+the relevant information and store it in a database.
 
-This template includes:
-- Poetry as dependency managing
-- Pyttest as testing framework
-- A basic GH workflow for running tests on PRs
+After, I can visualize my expenses using a web interface, generate
+graphs or whatever other feature I might want to add in the future.
+
 

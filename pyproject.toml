@@ -1,7 +1,7 @@
 [project]
-name = "<YOURNAME!>"
+name = "Spenze_Track"
 version = "0.1.0"
-description = "A DESCRIPTION!"
+description = "A personal spenze tracking."
 authors = [
     {name = "Kevin Zeledon",email = "kzeledon@protonmail.com"}
 ]
